@@ -17,10 +17,7 @@ var _fire_timer:int = 0
 var is_dead:bool = false
 
 func _ready():	
-	for child in get_tree().root.get_child(0).get_children():
-		if child.get_class() == self.get_class():			
-			if child.is_player_controlled == true:
-				player = child
+	player = get_tree().current_scene.get_node("Player")
 
 func init(animated_sprite:AnimatedSprite, animation_player:AnimationPlayer, health_bar:ProgressBar):
 	_animated_sprite = animated_sprite

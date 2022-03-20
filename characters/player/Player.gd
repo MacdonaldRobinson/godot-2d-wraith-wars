@@ -1,5 +1,5 @@
 extends Character
-class_name Wraith1
+class_name Player
 
 func _ready():
 	is_player_controlled = true

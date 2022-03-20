@@ -1,5 +1,5 @@
 extends Character
-class_name Wraith2
+class_name Enemy
 
 func _ready():
 	init($AnimatedSprite, $AnimationPlayer,$HealthBar)

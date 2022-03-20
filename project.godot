@@ -14,26 +14,26 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://characters/Character.gd"
 }, {
+"base": "Character",
+"class": "Enemy",
+"language": "GDScript",
+"path": "res://characters/enemy/Enemy.gd"
+}, {
+"base": "Character",
+"class": "Player",
+"language": "GDScript",
+"path": "res://characters/player/Player.gd"
+}, {
 "base": "Area2D",
 "class": "SpellBall",
 "language": "GDScript",
 "path": "res://effects/SpellBall.gd"
-}, {
-"base": "Character",
-"class": "Wraith1",
-"language": "GDScript",
-"path": "res://characters/wraith1/Wraith1.gd"
-}, {
-"base": "Character",
-"class": "Wraith2",
-"language": "GDScript",
-"path": "res://characters/wraith2/Wraith2.gd"
 } ]
 _global_script_class_icons={
 "Character": "",
-"SpellBall": "",
-"Wraith1": "",
-"Wraith2": ""
+"Enemy": "",
+"Player": "",
+"SpellBall": ""
 }
 
 [application]
