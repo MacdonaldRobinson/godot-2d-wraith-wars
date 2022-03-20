@@ -1,0 +1,201 @@
+[gd_scene load_steps=116 format=2]
+
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_014.png" type="Texture" id=1]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_005.png" type="Texture" id=2]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_010.png" type="Texture" id=3]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_001.png" type="Texture" id=4]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_006.png" type="Texture" id=5]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_013.png" type="Texture" id=6]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_006.png" type="Texture" id=7]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_005.png" type="Texture" id=8]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_003.png" type="Texture" id=9]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_013.png" type="Texture" id=10]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_011.png" type="Texture" id=11]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_007.png" type="Texture" id=12]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_007.png" type="Texture" id=13]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_001.png" type="Texture" id=14]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_008.png" type="Texture" id=15]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_010.png" type="Texture" id=16]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_008.png" type="Texture" id=17]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_007.png" type="Texture" id=18]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_010.png" type="Texture" id=19]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_008.png" type="Texture" id=20]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_011.png" type="Texture" id=21]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_010.png" type="Texture" id=22]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_007.png" type="Texture" id=23]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_005.png" type="Texture" id=24]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_009.png" type="Texture" id=25]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_012.png" type="Texture" id=26]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_009.png" type="Texture" id=27]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_015.png" type="Texture" id=28]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_016.png" type="Texture" id=29]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_017.png" type="Texture" id=30]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_000.png" type="Texture" id=31]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_004.png" type="Texture" id=32]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_002.png" type="Texture" id=33]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_003.png" type="Texture" id=34]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_009.png" type="Texture" id=35]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_000.png" type="Texture" id=36]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_001.png" type="Texture" id=37]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_003.png" type="Texture" id=38]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_004.png" type="Texture" id=39]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_006.png" type="Texture" id=40]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_007.png" type="Texture" id=41]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_008.png" type="Texture" id=42]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_002.png" type="Texture" id=43]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_005.png" type="Texture" id=44]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_009.png" type="Texture" id=45]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_010.png" type="Texture" id=46]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_003.png" type="Texture" id=47]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_007.png" type="Texture" id=48]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_007.png" type="Texture" id=49]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_001.png" type="Texture" id=50]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_005.png" type="Texture" id=51]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_000.png" type="Texture" id=52]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_004.png" type="Texture" id=53]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_011.png" type="Texture" id=54]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_006.png" type="Texture" id=55]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_008.png" type="Texture" id=56]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_010.png" type="Texture" id=57]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_001.png" type="Texture" id=58]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_016.png" type="Texture" id=59]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_005.png" type="Texture" id=60]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_006.png" type="Texture" id=61]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_000.png" type="Texture" id=62]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_007.png" type="Texture" id=63]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_001.png" type="Texture" id=64]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_004.png" type="Texture" id=65]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_003.png" type="Texture" id=66]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_005.png" type="Texture" id=67]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_009.png" type="Texture" id=68]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_002.png" type="Texture" id=69]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_008.png" type="Texture" id=70]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_009.png" type="Texture" id=71]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_011.png" type="Texture" id=72]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_000.png" type="Texture" id=73]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_010.png" type="Texture" id=74]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_002.png" type="Texture" id=75]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_011.png" type="Texture" id=76]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_003.png" type="Texture" id=77]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_000.png" type="Texture" id=78]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_002.png" type="Texture" id=79]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_014.png" type="Texture" id=80]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_006.png" type="Texture" id=81]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_006.png" type="Texture" id=82]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_006.png" type="Texture" id=83]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_009.png" type="Texture" id=84]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_009.png" type="Texture" id=85]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_001.png" type="Texture" id=86]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_004.png" type="Texture" id=87]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_008.png" type="Texture" id=88]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_000.png" type="Texture" id=89]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_004.png" type="Texture" id=90]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_017.png" type="Texture" id=91]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_014.png" type="Texture" id=92]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_012.png" type="Texture" id=93]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_003.png" type="Texture" id=94]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_010.png" type="Texture" id=95]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_002.png" type="Texture" id=96]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_008.png" type="Texture" id=97]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_003.png" type="Texture" id=98]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_013.png" type="Texture" id=99]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_002.png" type="Texture" id=100]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_011.png" type="Texture" id=101]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_002.png" type="Texture" id=102]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_011.png" type="Texture" id=103]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_012.png" type="Texture" id=104]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_015.png" type="Texture" id=105]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_000.png" type="Texture" id=106]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_005.png" type="Texture" id=107]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_004.png" type="Texture" id=108]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_001.png" type="Texture" id=109]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_011.png" type="Texture" id=110]
+[ext_resource path="res://assets/characters/craftpix-net-563568-free-wraith-tiny-style-2d-sprites/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_004.png" type="Texture" id=111]
+[ext_resource path="res://characters/wraith2/Wraith2.gd" type="Script" id=112]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 36 ), ExtResource( 37 ), ExtResource( 43 ), ExtResource( 38 ), ExtResource( 39 ), ExtResource( 44 ), ExtResource( 40 ), ExtResource( 41 ), ExtResource( 42 ), ExtResource( 45 ), ExtResource( 46 ), ExtResource( 76 ) ],
+"loop": true,
+"name": "Walking",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 78 ), ExtResource( 4 ), ExtResource( 96 ), ExtResource( 94 ), ExtResource( 87 ), ExtResource( 8 ), ExtResource( 81 ), ExtResource( 23 ), ExtResource( 88 ), ExtResource( 27 ), ExtResource( 3 ), ExtResource( 101 ) ],
+"loop": true,
+"name": "Idle",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 89 ), ExtResource( 86 ), ExtResource( 79 ), ExtResource( 77 ), ExtResource( 90 ), ExtResource( 24 ), ExtResource( 7 ), ExtResource( 13 ), ExtResource( 15 ), ExtResource( 25 ), ExtResource( 22 ), ExtResource( 21 ) ],
+"loop": true,
+"name": "IdleBlink",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 52 ), ExtResource( 64 ), ExtResource( 69 ), ExtResource( 66 ), ExtResource( 65 ), ExtResource( 67 ), ExtResource( 61 ), ExtResource( 48 ), ExtResource( 70 ), ExtResource( 71 ), ExtResource( 57 ), ExtResource( 54 ), ExtResource( 93 ), ExtResource( 99 ), ExtResource( 80 ), ExtResource( 105 ), ExtResource( 59 ), ExtResource( 91 ) ],
+"loop": true,
+"name": "CastingSpells",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 73 ), ExtResource( 50 ), ExtResource( 75 ), ExtResource( 47 ), ExtResource( 53 ), ExtResource( 51 ), ExtResource( 55 ), ExtResource( 49 ), ExtResource( 56 ), ExtResource( 68 ), ExtResource( 74 ), ExtResource( 72 ) ],
+"loop": true,
+"name": "Attacking",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 62 ), ExtResource( 58 ), ExtResource( 102 ), ExtResource( 98 ), ExtResource( 108 ), ExtResource( 60 ), ExtResource( 83 ), ExtResource( 63 ), ExtResource( 97 ), ExtResource( 84 ), ExtResource( 95 ), ExtResource( 103 ), ExtResource( 104 ), ExtResource( 10 ), ExtResource( 92 ) ],
+"loop": true,
+"name": "Dying",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 31 ), ExtResource( 14 ), ExtResource( 33 ), ExtResource( 34 ), ExtResource( 32 ), ExtResource( 2 ), ExtResource( 5 ), ExtResource( 12 ), ExtResource( 17 ), ExtResource( 35 ), ExtResource( 16 ), ExtResource( 11 ), ExtResource( 26 ), ExtResource( 6 ), ExtResource( 1 ), ExtResource( 28 ), ExtResource( 29 ), ExtResource( 30 ) ],
+"loop": true,
+"name": "Taunt",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 106 ), ExtResource( 109 ), ExtResource( 100 ), ExtResource( 9 ), ExtResource( 111 ), ExtResource( 107 ), ExtResource( 82 ), ExtResource( 18 ), ExtResource( 20 ), ExtResource( 85 ), ExtResource( 19 ), ExtResource( 110 ) ],
+"loop": true,
+"name": "Hurt",
+"speed": 5.0
+} ]
+
+[sub_resource type="CapsuleShape2D" id=2]
+radius = 75.0
+height = 76.0
+
+[sub_resource type="Animation" id=3]
+resource_name = "TakeDamage"
+length = 0.5
+step = 0.05
+tracks/0/type = "value"
+tracks/0/path = NodePath("AnimatedSprite:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.25, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 1 ), Color( 1, 0, 0, 0.490196 ), Color( 1, 1, 1, 1 ) ]
+}
+
+[node name="Wraith2" type="KinematicBody2D"]
+position = Vector2( 1481, 814 )
+script = ExtResource( 112 )
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+frames = SubResource( 1 )
+animation = "Idle"
+playing = true
+flip_h = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource( 2 )
+
+[node name="HealthBar" type="ProgressBar" parent="."]
+margin_left = -67.0
+margin_top = -200.0
+margin_right = 87.0
+margin_bottom = -186.0
+value = 100.0
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+anims/TakeDamage = SubResource( 3 )
