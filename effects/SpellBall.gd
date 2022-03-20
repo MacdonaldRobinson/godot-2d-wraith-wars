@@ -14,3 +14,6 @@ func _on_SpellBall_body_entered(body):
 	if body != self.get_parent():
 		body.take_damage()
 		queue_free()
+
+func _on_VisibilityNotifier2D_screen_exited():
+	queue_free()

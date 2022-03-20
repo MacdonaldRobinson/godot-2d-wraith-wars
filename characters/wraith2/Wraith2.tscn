@@ -184,6 +184,7 @@ script = ExtResource( 112 )
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
 frames = SubResource( 1 )
 animation = "Idle"
+frame = 7
 playing = true
 flip_h = true
 

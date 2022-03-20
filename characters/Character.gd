@@ -60,9 +60,7 @@ func player_control(delta):
 func ai_controlled(delta):
 	if is_dead or !player or player.is_dead:
 		return
-		
-	print(is_dead)
-		
+				
 	var diff:Vector2 = self.position - player.position	
 	diff = -diff.normalized()
 	
@@ -85,23 +83,11 @@ func shoot(direction:Vector2):
 		
 	add_child(spell_ball_instance)
 		
-
-func take_damage():
-	if is_dead:
-		return
-		
-	_animation_player.play("TakeDamage")
-	_health_bar.value -=10
-	
-	if _health_bar.value == 0:
-		die()
 	
 func die():
 	_animated_sprite.frames.set_animation_loop("Dying", false)
 	_animated_sprite.play("Dying")
 	is_dead = true
-
-	
 
 func move(direction:Vector2, delta):
 	direction = direction.normalized()
