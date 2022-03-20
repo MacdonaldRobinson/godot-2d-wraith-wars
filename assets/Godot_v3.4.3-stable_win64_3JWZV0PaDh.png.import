@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Godot_v3.4.3-stable_win64_3JWZV0PaDh.png-b8b255aa18596dd0cd264f19daea6919.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/Godot_v3.4.3-stable_win64_3JWZV0PaDh.png"
+dest_files=[ "res://.import/Godot_v3.4.3-stable_win64_3JWZV0PaDh.png-b8b255aa18596dd0cd264f19daea6919.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
